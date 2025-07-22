@@ -38,7 +38,7 @@ git clone https://github.com/Gianp2/catalogo-juegos.git
 cd catalogo-juegos
 # Si el proyecto no tiene dependencias Node, este paso es opcional
 npm install
-# Inicia el servidor (si aplica)
+# Inicia el servidor 
 npm start
 ```
 
