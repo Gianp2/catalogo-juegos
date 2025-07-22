@@ -1,5 +1,5 @@
 
-# 🎮 Catálogo de Juegos
+#  Catálogo de Juegos 🎮
 
 ¡Bienvenido al **Catálogo de Juegos**!  
 Esta es una aplicación web interactiva diseñada para que los amantes de los videojuegos puedan explorar, gestionar y organizar su colección de títulos favoritos de forma sencilla y rápida.
