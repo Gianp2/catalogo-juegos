@@ -93,5 +93,5 @@ Este proyecto está bajo la licencia **MIT**. Puedes usar, modificar y distribui
 
 ## 📬 Contacto
 
-**Gianp2** – gianpasquinelli24@gmail.com  
+**Gianluca Pasquinelli** – gianpasquinelli24@gmail.com  
 [https://github.com/Gianp2](https://github.com/Gianp2)
