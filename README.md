@@ -62,7 +62,6 @@ Luego abre tu navegador y visita [http://localhost:3000](http://localhost:3000) 
 - HTML5, CSS3  
 - PHP (Modelo-Vista-Controlador)  
 - MySQL para la base de datos  
-- JavaScript (opcional)  
 
 ---
 
