@@ -1,14 +1,21 @@
+<<<<<<< HEAD
 <hr style="border:none; border-block-start:1px solid #e0e0e0; margin:2rem 0;">
+=======
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:2rem 0;">
+>>>>>>> 302474c536644c6d662ccb9e6b4b85c0d7ca0e82
 
 <footer>
   <div class="footer-container">
     <p>&copy; <?= date("Y") ?> Catálogo de Juegos</p>
+<<<<<<< HEAD
     <div class="footer-github">
       <a href="https://github.com/Gianp2" target="_blank" aria-label="GitHub Gianp2">
         <img src="public/githublogo.png" alt="GitHub Logo">
         <span>Github - @Gianp2</span>
       </a>
     </div>
+=======
+>>>>>>> 302474c536644c6d662ccb9e6b4b85c0d7ca0e82
   </div>
 </footer>
 
@@ -29,13 +36,21 @@
   }
 
   .footer-container {
+<<<<<<< HEAD
     max-inline-size: 960px;
+=======
+    max-width: 960px;
+>>>>>>> 302474c536644c6d662ccb9e6b4b85c0d7ca0e82
     margin: 0 auto;
     text-align: center;
   }
 
   footer p {
+<<<<<<< HEAD
     margin: 0 0 0.5rem 0;
+=======
+    margin: 0;
+>>>>>>> 302474c536644c6d662ccb9e6b4b85c0d7ca0e82
     transition: color 0.3s ease;
     cursor: default;
   }
@@ -44,6 +59,7 @@
     color: var(--footer-text-hover);
   }
 
+<<<<<<< HEAD
   .footer-github {
     display: flex;
     justify-content: center;
@@ -73,13 +89,19 @@
   }
 
   @media (max-inline-size: 480px) {
+=======
+  @media (max-width: 480px) {
+>>>>>>> 302474c536644c6d662ccb9e6b4b85c0d7ca0e82
     footer {
       font-size: 0.8rem;
       padding: 1rem 0.5rem;
     }
+<<<<<<< HEAD
 
     .footer-github span {
       font-size: 0.85rem;
     }
+=======
+>>>>>>> 302474c536644c6d662ccb9e6b4b85c0d7ca0e82
   }
 </style>
